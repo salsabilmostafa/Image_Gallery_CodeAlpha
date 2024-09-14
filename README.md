@@ -11,7 +11,7 @@ A dynamic and responsive image gallery built using HTML, CSS, and JavaScript. Th
 
 ## Usage
 1. Clone or download the repository.
-2. Open the `index.html` file in any browser.
+2. Open the `page.html` file in any browser.
 3. Enjoy the gallery features and click on images for full-size viewing.
 
 ## Dependencies
